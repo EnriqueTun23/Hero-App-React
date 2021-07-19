@@ -2,6 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+![heroesApp](https://user-images.githubusercontent.com/37120631/126209212-6ff3d68c-d833-4a07-acad-ad5f4bc5045e.gif)
+
+
 # Scripts
 
 ### 1. Descargar el repositorio
