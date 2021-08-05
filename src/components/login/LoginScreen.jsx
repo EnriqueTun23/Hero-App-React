@@ -22,7 +22,7 @@ export const LoginScreen = ({ history }) => {
     return (
         <>
         <Container fixed>
-            <h1>Login</h1>
+            <h1>Login </h1>
             <hr />
 
             <Button
